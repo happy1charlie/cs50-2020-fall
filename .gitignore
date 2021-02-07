@@ -2,3 +2,4 @@ secret.yml
 /.npm
 *.tmp
 .DS_Store
+*.db
